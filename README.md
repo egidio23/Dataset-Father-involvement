@@ -1,7 +1,7 @@
 # 🧠 Father Involvement Scale (FIS) Dataset
 
 ## 📘 Overview
-Dataset ini merupakan hasil penelitian yang bertujuan untuk mengukur tingkat keterlibatan ayah (*father involvement*) pada siswa yang tinggal bersama ayah kandung. Skala ini dikembangkan berdasarkan teori **Doherty** yang mencakup tiga aspek utama, yaitu **engagement**, **accessibility**, dan **responsibility**.  
+Dataset ini merupakan hasil penelitian Annisa Fitri Mulyani https://repositori.uma.ac.id/jspui/bitstream/123456789/21678/2/198600215%20-%20Annisa%20Fitri%20Mulyani%20-%20Fulltext.pdf yang bertujuan untuk mengukur tingkat keterlibatan ayah (*father involvement*) pada siswa yang tinggal bersama ayah kandung. Skala ini dikembangkan berdasarkan teori **Doherty** yang mencakup tiga aspek utama, yaitu **engagement**, **accessibility**, dan **responsibility**.  
 Data dikumpulkan menggunakan instrumen psikologi model **Guttman** dengan dua pilihan jawaban (“Ya” dan “Tidak”).
 
 ---
